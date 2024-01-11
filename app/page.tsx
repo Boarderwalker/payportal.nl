@@ -18,11 +18,11 @@ export default function Page() {
         <div className={styles.shape}></div>
           
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to the PayPortal.</strong> This is the invoice management{' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Portal
+            <strong>Welkom bij PayPortal.</strong> Dit is het facturen management{' '}
+            <a href="https://www.penthion.nl/" className="text-blue-500">
+              Portaal
             </a>
-            , brought to you by Penthion MT.
+            , van Penthion MT.
           </p>
           <Link
             href="/login"
