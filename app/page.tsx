@@ -22,7 +22,7 @@ export default function Page() {
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Portal
             </a>
-            , brought to you by Penthion.
+            , brought to you by Penthion MT.
           </p>
           <Link
             href="/login"
