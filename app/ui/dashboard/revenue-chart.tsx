@@ -26,7 +26,7 @@ export default async function RevenueChart({
   return (
     <div className="w-full md:col-span-4">
       <h2 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
-        Recente 
+        Opbrengsten 
       </h2>
       {/* NOTE: comment in this code when you get to this point in the course */}
 
