@@ -19,6 +19,7 @@ export async function fetchRevenue() {
   try {
     // Artificially delay a response for demo purposes.
     // Don't do this in production :)
+    // noStore is added to make sure it reloads the data
 
     //console.log('Fetching revenue data...');
    // await new Promise((resolve) => setTimeout(resolve, 3000));
